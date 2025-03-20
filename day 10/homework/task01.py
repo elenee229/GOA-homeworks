@@ -1,0 +1,6 @@
+name=input("what's your name")
+age=input("what's your age")
+height=input("what's your height")
+print(type(name))
+print(type(age))
+print(type(height))
