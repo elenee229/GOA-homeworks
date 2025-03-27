@@ -1,0 +1,1 @@
+#algorithm is a way to explain how to solve the problem.there is three types of algorithm:flowchart,pseudocode and natural language.flowchart is a diagram type of code,that doesn't let u go through untill it gets correct answer.pseudocode is a general code,that doesnt belong in any programming language.natural language is natural code for algorithm.
