@@ -1,0 +1,12 @@
+h1 {
+    color: rgb(255, 58, 189);
+    background-color: rgb(92, 13, 118);
+    text-align: center;
+    border: 2px solid rgb(120, 19, 127);
+}
+h2 {
+    color: rgb(12, 131, 125);
+    background-color: rgb(11, 86, 147);
+    text-align: center;
+    border: 2px solid rgb(0, 77, 128);
+}

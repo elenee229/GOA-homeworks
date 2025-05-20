@@ -1,0 +1,17 @@
+h1 {
+    background-color: blueviolet;
+    text-align: center;
+    color: rgb(83, 47, 116);
+    border: 2px solid purple;
+}
+button {
+    background-color: green;
+    color: rgb(23, 168, 62);
+    border: 2px solid rgba(6, 107, 21, 0.745);
+}
+p {
+    background-color: red;
+    color: rgb(166, 13, 13);
+    text-align: center;
+    border: 2px solid rgba(238, 47, 47, 0.656);
+}
