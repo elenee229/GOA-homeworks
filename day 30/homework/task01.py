@@ -1,0 +1,2 @@
+#2) დაწერეთ რა არის ფუნქცია, რისთვის ვიყენებთ, რამდენი ტიპის არსებობს, რა არის პარამეტრები, არგუმენტები და დაბრუნება (return)
+#function does the operations,return a results and can be used many times.we use function to make code more clear and understandeable,to avoid any repeating or errors and etc.functions can be many types for an example print() is a function which is used quite often also len(),type and etc.parameter tells function what data will be sent and function is sent as a parameter.return returns the statement that was sent in base.
