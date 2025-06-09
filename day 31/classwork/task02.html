@@ -1,0 +1,29 @@
+<!--2) კომენტარებით დაწერეთ CSS-ის სხვადსხვა წესების სელექტორად იგივე ელემენტი როდესაც გვაქვს რომელი სტილი იმარჯვებს, რომელი სელექტორია ყველაზე პრიორიტეტული. მოიყვანეთ ყველა დონის მაგალითი-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /*type selector is lowest priority*/
+        h1 {
+            color: pink;
+        }
+        /*then comes class*/
+        .sec1 {
+            color: #000;
+        }
+        /*and id has highest priority*/
+        #n1 {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <h1>hi</h1>
+    <p class="sec1">hey</p>
+    <button id="n1">click me</button>
+    
+</body>
+</html>

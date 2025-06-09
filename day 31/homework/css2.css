@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(64, 64, 64);
+    text-align: center;
+
+}
+h1 {
+    color: rgb(142, 251, 255);
+}
+p {
+    color: aqua;
+}
+button {
+    color: aquamarine;
+}

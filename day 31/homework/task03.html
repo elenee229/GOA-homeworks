@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title></title>
+    <style>
+        /*type selector has the lowest priority*/
+        p {
+            color: black;
+        }
+        /*class is in the middle*/
+        .n1 {
+            color: pink;
+        }
+        /*id is on second place*/
+        #n2 {
+            color: white;
+        }
+
+    </style>
+</head>
+<body>
+    <!--highest priority is inline css,it's css in element.-->
+    <h1 style="color: chartreuse;">hello world</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam repellendus nemo nihil atque voluptatem cupiditate officia obcaecati, quasi magni quidem assumenda corrupti ipsum dolore ea! Voluptates eius provident atque velit?</p>
+    <button class="n1">click me</button>
+    <h2 id="n2">hey</h2>
+    
+</body>
+</html>

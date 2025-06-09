@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(227, 150, 196);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(88, 184, 226);
+    text-align: center;
+}
+p {
+    color: rgb(86, 245, 234);
+    text-align: center;
+}
+button {
+    color: rgb(86, 209, 221);
+    background-color: rgb(46, 143, 200);
+    font-size: large;
+}
