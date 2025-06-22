@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+}
+h1 {
+    text-decoration: dashed rgb(46, 36, 46) line-through;
+    text-align: justify;
+    text-shadow: 12px 12px 3px rgb(0, 0, 0);
+}
+p {
+    text-align: justify;
+    text-decoration: dotted gray line-through;
+    text-transform: uppercase;
+    text-shadow: 12px 8px 2px rgb(35, 52, 46);
+}
+/*text-transform rules the text capitalization it has meanings:lowercase, uppercase and etc
+text-align rules the location of the text like:center left right and etc
+text-shadow adds shadow on the text
